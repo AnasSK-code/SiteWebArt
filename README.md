@@ -64,5 +64,34 @@ L'application sera accessible sur http://localhost:3000.
 
 - Le tableau artworks contient des œuvres d'art numériques d'exemple. Il peut être modifié pour inclure davantage d'œuvres.  
 - La mise en page est personnalisable via TailwindCSS.  
-- Framer Motion est utilisé pour améliorer l'expérience de navigation avec des animations fluides.  
+- Framer Motion est utilisé pour améliorer l'expérience de navigation avec des animations fluides.
+
+
+
+![image](https://github.com/user-attachments/assets/5ba3a298-8c14-4408-8c35-88fc5f7c03e1)
+![image](https://github.com/user-attachments/assets/3e5f3630-d69a-4e79-9e87-22ac9a392344)
+![image](https://github.com/user-attachments/assets/0de7d42e-97c5-45f5-b676-681904cedd20)
+![image](https://github.com/user-attachments/assets/ac6be66f-69b4-4172-a621-590d2dd1c477)
+![image](https://github.com/user-attachments/assets/dd93295d-da3d-4722-8c67-7eb6c355db40)
+![image](https://github.com/user-attachments/assets/769bc53f-d388-4517-83e5-b6d12e3debe3)
+![image](https://github.com/user-attachments/assets/00ee215b-5340-4df0-95be-810a762daf7e)
+![image](https://github.com/user-attachments/assets/a4f3d802-f821-4ceb-9529-fe5ba039d410)
+![image](https://github.com/user-attachments/assets/abf1d141-3918-47e9-9160-fc4aeb3d0ac9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
